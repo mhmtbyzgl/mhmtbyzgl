@@ -1,6 +1,6 @@
 ![MasterHead](https://www.hurix.com/wp-content/uploads/2022/01/Cyber-security.jpg)
 <h1 align="center">Hi 👋, I'm Mahmut BEYAZGÜL.</h1>
-<h3 align="center">Cyber Security Researcher | Electrical Electronic Engineer</h3>
+<h3 align="center">Front-End Developer | Cyber Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtbyzgl&label=Profile%20views&color=0e75b6&style=flat" alt="mhmtbyzgl" /> </p>
 
