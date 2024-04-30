@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **SiberVatan**
 
-- 🌱 I’m currently learning **PHP,Javascript,Html,CSS.**
+- 🌱 I’m currently learning **ReactJS, NextJS, Javascript and Tailwind.**
 
 - 📫 How to reach me **whitesecz@outlook.com**
 
