@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Mahmut BEYAZGÜL <br>
+<h1 align="center">Hi 👋, I'm Mahmut BEYAZGÜL <br><br>
 
 Front-End Developer | Cyber Security Researcher</h1>
 
