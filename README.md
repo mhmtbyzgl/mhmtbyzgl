@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🛠️ Technologies I use:<br>  <h4>Frontend:</h4> <div align="center">
+<p align="left">🛠️ Technologies I use:<br>  <h2>Frontend:</h2> <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -49,7 +49,7 @@
   <img width="12" />
 
 </div>
-<br>  <h4>Backend:</h4> <div align="center">
+<br>  <h2>Backend:</h2> <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -58,7 +58,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-<br>  <h4>Database:</h4> MySQL, SQLite<br>  <h4>Others:</h4> Git, Docker, Linux<br><br>✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<br>   <div align="center"> <h4>Database:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+<br>  <h4>Others:</h4> Git, Docker, Linux<br><br>✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
