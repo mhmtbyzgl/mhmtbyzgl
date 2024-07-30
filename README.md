@@ -34,7 +34,7 @@
 
 <h1 align="left">🛠️ Technologies I use:<br>   
 <div align="center"> 
-  <h2>Frontend:</h2>
+  <h3>Frontend:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -52,7 +52,7 @@
 </div><br>
   
  <div align="center"> 
-  <h2>Backend:</h2>
+  <h3>Backend:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -63,14 +63,14 @@
 </div><br>
 
 <div align="center">
-  <h2>Database:</h2>
+  <h3>Database:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div><br> 
 
 <div align="center">
-  <h2>Others:</h2>
+  <h3>Others:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -86,8 +86,8 @@
 
 ###
 
-<h1 align="left">
-Latest Blog Posts<br><br> <a href="https://docs.yavuzlar.org/siber-tehdit-istihbarati/gelismis-siber-tehdit-istihbarati-nedir"> Gelişmiş Siber Tehdit İstihbaratı Nedir?</a></h1>
+<h2 align="left">
+Latest Blog Posts<br><br> <a href="https://docs.yavuzlar.org/siber-tehdit-istihbarati/gelismis-siber-tehdit-istihbarati-nedir" target="_blank"> <p>Gelişmiş Siber Tehdit İstihbaratı Nedir?</p></a></h2>
 
 ###
 
