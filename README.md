@@ -82,7 +82,6 @@ Front-End Developer | Cyber Security Researcher</h1>
 
 ###
 
-<h1 align="left">🛠️ Technologies I use:<br>   
 <div align="center"> 
   <h3>Latest Blog Posts:</h3>
  <a href="https://docs.yavuzlar.org/siber-tehdit-istihbarati/gelismis-siber-tehdit-istihbarati-nedir" target="_blank"> <p>Gelişmiş Siber Tehdit İstihbaratı Nedir?</p></a>
