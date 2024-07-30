@@ -84,7 +84,7 @@ Front-End Developer | Cyber Security Researcher</h1>
 
 <div align="center"> 
 <h1>Latest Blog Posts</h1>
-  <ul>
+  <ul aling="center">
     <li aling="center">
  <a href="https://docs.yavuzlar.org/siber-tehdit-istihbarati/gelismis-siber-tehdit-istihbarati-nedir" target="_blank">Gelişmiş Siber Tehdit İstihbaratı Nedir?</a>
     </li>
