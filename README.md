@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left">🛠️ Technologies I use:<br>   <div align="center"> <h2>Frontend:</h2>
+<h1 align="left">🛠️ Technologies I use:<br>   
+<div align="center"> 
+  <h2>Frontend:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -47,9 +49,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-
-</div>
-<br>   <div align="center"> <h2>Backend:</h2>
+</div><br>
+  
+ <div align="center"> 
+  <h2>Backend:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -57,14 +60,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-<br>   <div align="center"> <h2>Database:</h2>
+</div><br>
+
+<div align="center">
+  <h2>Database:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-<br>   <div align="center"> <h2>Others:</h2>
- 
+</div><br> 
+
+<div align="center">
+  <h2>Others:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -80,8 +86,8 @@
 
 ###
 
-<p align="left">
-### Latest Blog Posts<br><br>- [Gelişmiş Siber Tehdit İstihbaratı Nedir?](https://docs.yavuzlar.org/siber-tehdit-istihbarati/gelismis-siber-tehdit-istihbarati-nedir)</p>
+<h1 align="left">
+Latest Blog Posts<br><br> <a href="https://docs.yavuzlar.org/siber-tehdit-istihbarati/gelismis-siber-tehdit-istihbarati-nedir"> Gelişmiş Siber Tehdit İstihbaratı Nedir?</a></h1>
 
 ###
 
