@@ -20,10 +20,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahmut BEYAZGÜL</h1>
 
-###
-
-<br clear="both">
-
 <h2 align="center">Front-End Developer | Cyber Security Researcher</h2>
 
 ###
