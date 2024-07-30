@@ -84,7 +84,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
 
-###
+###<br>
 
 <h2 align="left">
 Latest Blog Posts<br><br> <a href="https://docs.yavuzlar.org/siber-tehdit-istihbarati/gelismis-siber-tehdit-istihbarati-nedir" target="_blank"> <p>Gelişmiş Siber Tehdit İstihbaratı Nedir?</p></a></h2>
