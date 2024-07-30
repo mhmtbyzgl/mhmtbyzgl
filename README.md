@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🛠️ Technologies I use:<br>  <h4>Frontend:</h4> HTML, CSS, JavaScript, React<br>  <h4>Backend:</h4> PHP, GO<br>  <h4>Database:</h4> MySQL, SQLite<br>  <h4>Others:</h4> Git, Docker, Linux<br><br>✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🛠️ Technologies I use:<br>  <h4>Frontend:</h4> HTML, CSS,   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />, React<br>  <h4>Backend:</h4> PHP, GO<br>  <h4>Database:</h4> MySQL, SQLite<br>  <h4>Others:</h4> Git, Docker, Linux<br><br>✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
